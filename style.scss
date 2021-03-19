@@ -1,0 +1,18 @@
+/*!
+ * Theme Name: Acme
+ * Theme URI: https://namecho.com/
+ * Author: namecho
+ * Author URI: https://namecho.com/
+ * Description: 细节，是我们一成不变的追求，它将以移动端优先匹配 PC 端，全响应式主题。
+ * equires at least: 5.6.2
+ * Requires PHP: 5.6
+ * Version: 1.0
+ * ext Domain: acme
+ * Tags: 极致, Acme
+ */
+
+@import "sass/normalize";
+
+body {
+    background: #000;
+}
